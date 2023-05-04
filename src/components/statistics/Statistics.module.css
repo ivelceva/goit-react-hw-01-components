@@ -22,7 +22,7 @@
     color: #a9a9a9;
 }
 
-.list {
+.stat-list {
     display: flex;
     justify-content: space-evenly;
     list-style: none;
